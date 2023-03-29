@@ -1,0 +1,53 @@
+body {background-color: #fefbd8;}
+
+.header{
+    color:red;
+    text-align: center;
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
+    font-size:75px;
+    
+}
+
+.nav{
+    color:red;
+    text-align: center;
+    font-size:40px;
+}
+
+
+
+.footer{
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+}
+
+
+.text{
+font-size: 45px;
+
+}
+
+.adres{
+    color:black;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size:30px;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: center;
+  background-color: rgb(216, 157, 90);
+}
+
+.flex-container > div {
+  background-color: #ff0404;
+  width: 500px;
+  margin: 10px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+}
